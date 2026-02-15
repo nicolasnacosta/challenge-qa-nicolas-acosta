@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.464" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-02-15T13:25:12" tests="0" file="cypress\e2e\api\mercadoLibre.cy.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="MercadoLibre API" timestamp="2026-02-15T13:25:12" tests="1" failures="0" time="0.464">
+    <testcase name="MercadoLibre API Obtener departamentos" time="0.464" classname="Obtener departamentos" failure="false" error="false" success="true">
+    </testcase>
+  </testsuite>
+</testsuites>

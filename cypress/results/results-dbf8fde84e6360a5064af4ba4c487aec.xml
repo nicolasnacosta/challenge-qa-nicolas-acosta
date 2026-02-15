@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="3.234" tests="3" failures="1">
+  <testsuite name="Root Suite" timestamp="2026-02-15T13:25:01" tests="0" file="cypress\e2e\shoppingCart.cy.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Carrito de compras" timestamp="2026-02-15T13:25:01" tests="3" failures="1" time="3.234">
+    <testcase name="Carrito de compras Agregar un producto al carrito" time="1.679" classname="Agregar un producto al carrito" failure="false" error="false" success="true">
+    </testcase>
+    <testcase name="Carrito de compras Eliminar un producto del carrito" time="1.555" classname="Eliminar un producto del carrito" failure="false" error="false" success="true">
+    </testcase>
+    <testcase name="Carrito de compras Iniciar el checkout con en el carrito vacío" time="0" classname="Iniciar el checkout con en el carrito vacío" failure="true" error="true" success="false">
+      <failure message="Timed out retrying after 4000ms: expected &apos;https://www.saucedemo.com/checkout-step-one.html&apos; to include &apos;/cart&apos;" type="AssertionError"><![CDATA[AssertionError: Timed out retrying after 4000ms: expected 'https://www.saucedemo.com/checkout-step-one.html' to include '/cart'
+    at  (webpack://challenge/./cypress/e2e/shoppingCart.cy.js:45:13)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

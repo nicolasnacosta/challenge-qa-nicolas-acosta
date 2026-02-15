@@ -1,0 +1,26 @@
+{
+  "backpack": {
+    "name": "Sauce Labs Backpack",
+    "id": "sauce-labs-backpack"
+  },
+  "bike_light": {
+    "name": "Sauce Labs Bike Light",
+    "id": "sauce-labs-bike-light"
+  },
+  "bolt_tshirt": {
+    "name": "Sauce Labs Bolt T-Shirt",
+    "id": "sauce-labs-bolt-t-shirt"
+  },
+  "fleece_jacket": {
+    "name": "Sauce Labs Fleece Jacket",
+    "id": "sauce-labs-fleece-jacket"
+  },
+  "onesie": {
+    "name": "Sauce Labs Onesie",
+    "id": "sauce-labs-onesie"
+  },
+  "red_tee": {
+    "name": "Sauce Labs Red Tee",
+    "id": "sauce-labs-red-tee"
+  }
+}
