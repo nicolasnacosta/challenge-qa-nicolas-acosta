@@ -14,8 +14,8 @@ Antes de instalar el proyecto, asegúrate de tener instalado:
 Clonar el repositorio:
 
 ```Bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/nicolasnacosta/challenge-qa-nicolas-acosta.git
+cd challenge-qa-nicolas-acosta
 ```
 
 **Instalar dependencias:**
